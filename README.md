@@ -1,2 +1,3 @@
-# prime-e-learning-3w8e
+# Prime E Learning 3W8E
+
 A repository to test GitHub automation for issue management.
